@@ -1,0 +1,12 @@
+﻿hospital_name,last_updated_on,version,hospital_location,hospital_address,license_number | VA,"To the best Of its knowledge And belief, the hospital has included all applicable standard charge information In accordance With the requirements Of 45 CFR 180.50, And the information encoded Is True, accurate, And complete As Of the Date indicated.",,,,,,,,,,,,,,,,,,
+Sentara Martha Jefferson Hospital,2024-04-01,2.0.0,Sentara Martha Jefferson Hospital,"500 Martha Jefferson Drive, Charlottesville, VA 22911",H1872,TRUE,,,,,,,,,,,,,,,,,,
+description,code|1,code|1|type,code|2,code|2|type,code|3,code|3|type,billing_class,setting,drug_unit_of_measurement,drug_type_of_measurement,modifiers,standard_charge|gross,standard_charge|discounted_cash,payer_name,plan_name,standard_charge|negotiated_dollar,standard_charge|negotiated_percentage,standard_charge|negotiated_algorithm,estimated_amount,standard_charge|methodology,standard_charge|min,standard_charge|max,additional_generic_notes,additional_payer_notes
+R&B PRIVATE,30010001,CDM,110,RC,,,facility,both,,,,1776,888,,,,,,,,,,,
+FUNDUS PHOTOS,10400020,CDM,920,RC,92250,MS-DRG,facility,both,,,,900,156.5,Platform Health Insurance,,800,80,,,percent of total billed charges,,,,
+CORNEAL TOPOGRA MAPPING,10400106,CDM,920,RC,92025,CPT,facility,both,,,,900,165,Region Health Insurance,,,80,,,percent of total billed charges,,,,
+CHGL DRAW FEE - HEEL STICK,15300100,CDM,300,RC,36416,RC,facility,both,,,,900,17.5,Platform Health Insurance,,,0.8,,,percent of total billed charges,,,,
+CHGL SICKLE CELL PREP,20100001,CDM,300,RC,85660,NDC,facility,both,,,,900,29.5,Region Health Insurance,,,8000,,,percent of total billed charges,,,,
+INTERMEDIATE EYE EXAM,10400003,CDM,510,RC,920,MS-DRG,facility,both,,,,1000,152.5,Platform Health Insurance,,600,60,,,percent of total billed charges,,,,
+QUANT PERIMETR GVF/HVF UNI/BIL,10400007,CDM,510,RC,800,MS-DRG,facility,both,,,,1000,167.5,Region Health Insurance,,,60,,,percent of total billed charges,,,,
+STATIC/KINETIC HVF UNI/BIL,10400008,CDM,510,RC,560,MS-DRG,facility,both,,,,1000,163,Platform Health Insurance,,,0.6,,,percent of total billed charges,,,,
+FLUORESCEIN ANGIOGRAPHY,10400015,CDM,920,RC,92235,HCPCS,facility,both,,,,1000,336.5,Region Health Insurance,,,6000,,,percent of total billed charges,,,,

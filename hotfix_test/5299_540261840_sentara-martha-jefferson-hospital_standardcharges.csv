@@ -1,0 +1,8 @@
+hospital_name,last_updated_on,version,hospital_location,hospital_address,license_number | VA,"To the best Of its knowledge And belief, the hospital has included all applicable standard charge information In accordance With the requirements Of 45 CFR 180.50, And the information encoded Is True, accurate, And complete As Of the Date indicated.",,,,,,,,,,,,,,,,,,
+Sentara Martha Jefferson Hospital,04-01-2024,2.0.0,Sentara Martha Jefferson Hospital,"500 Martha Jefferson Drive, Charlottesville, VA 22911",H1872,TRUE,,,,,,,,,,,,,,,,,,
+description,code|1,code|1|type,code|2,code|2|type,code|3,code|3|type,billing_class,setting,drug_unit_of_measurement,drug_type_of_measurement,modifiers,standard_charge|gross,standard_charge|discounted_cash,payer_name,plan_name,standard_charge|negotiated_dollar,standard_charge|negotiated_percentage,standard_charge|negotiated_algorithm,estimated_amount,standard_charge|methodology,standard_charge|min,standard_charge|max,additional_generic_notes,additional_payer_notes
+"Ecmo Or Tracheostomy With Mv >96 Hours Or Principal Diagnosis Except Face, Mouth And Neck With Major",,,,,,,,inpatient,,,,,,,,,,,,,,,,
+"Tracheostomy With Mv >96 Hours Or Principal Diagnosis Except Face, Mouth And Neck Without Major O.R.",,,,,,,,inpatient,,,,,,,,,,,,,,,,
+R&B PRIVATE,,,,,,,,both,,,,,,,,,,,,,,,,
+R&B SEMI-PRIVATE,,,,,,,,both,,,,,,,,,,,,,,,,
+R&B INTENSIVE CARE,,,,,,,,both,,,,,,,,,,,,,,,,
